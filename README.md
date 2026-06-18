@@ -2,7 +2,7 @@
 
 # Estudi de la viabilitat d'un model de decisió automatitzat per a mercats financers
 
-**Treball Final de Grau** — Grau en Enginyeria en Tecnologies Industrials  
+**Treball Final de Grau** - Grau en Enginyeria en Tecnologies Industrials  
 **Universitat Politècnica de Catalunya (ESEIAAT)** · Curs 2025–2026  
 
 **Autor:** Daniel Collado Bescos  
@@ -12,7 +12,7 @@
 
 ## Resum
 
-Aquest treball analitza la viabilitat tècnica i econòmica d'un sistema de decisió automatitzat aplicat a l'or al comptat (XAU/USD). S'han dissenyat, implementat i validat quatre estratègies algorítmiques complementàries sobre dades de ticks reals, amb separació estricta In-Sample (2016–2023) i Out-of-Sample (2023–2026). La infraestructura integra un doble pipeline en Python i MQL5 (MetaTrader 5). Els resultats determinen que cap estratègia avaluada és viable per al desplegament en compte real; com a contribucions verificables, el treball quantifica el *Coarse Data Bias*, formalitza un protocol IS/OOS per a sistemes rule-based i documenta una arquitectura de backtesting reproducible.
+Aquest treball analitza la viabilitat tècnica i econòmica d'un sistema de decisió automatitzat aplicat a l'or al comptat (XAU/USD). S'han dissenyat, implementat i validat quatre estratègies algorítmiques complementàries sobre dades de ticks reals, amb separació estricta In-Sample (2016–2023) i Out-of-Sample (2023–2026). La infraestructura integra un doble pipeline en Python i MQL5 (MetaTrader 5). Els resultats determinen que cap estratègia avaluada és viable per al desplegament en compte real.
 
 ---
 
